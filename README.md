@@ -2,6 +2,8 @@
 
 A 3D first-person memory palace application where you build rooms, place AI-generated objects, and store memories in spatial locations. Uses Three.js for rendering and Claude CLI for on-the-fly 3D object generation from natural language.
 
+<img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/f63ca620-fe8f-4468-87ad-038f7007f294" />
+
 ![Memory Palace](https://img.shields.io/badge/Three.js-3D-blue) ![Claude](https://img.shields.io/badge/Claude-AI%20Generation-purple) ![Node.js](https://img.shields.io/badge/Node.js-Server-green)
 
 ## How It Works
